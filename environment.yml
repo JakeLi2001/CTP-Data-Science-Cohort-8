@@ -1,0 +1,13 @@
+name: ctp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - scikit-learn
+  - scipy
+  - seaborn
