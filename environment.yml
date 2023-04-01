@@ -90,7 +90,6 @@ dependencies:
   - joblib=1.2.0
   - jpeg=9e
   - jsonschema=4.16.0
-  - jupyter=1.0.0
   - jupyter-server-mathjax=0.2.6
   - jupyter_client=7.4.2
   - jupyter_console=6.4.4
