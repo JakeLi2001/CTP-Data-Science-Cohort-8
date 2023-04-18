@@ -19,4 +19,3 @@ dependencies:
   - seaborn
   - ipykernel
   - streamlit
-prefix: C:\Users\lijhu\miniconda3\envs\ctp
