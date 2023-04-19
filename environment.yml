@@ -17,4 +17,5 @@ dependencies:
   - scikit-learn
   - scipy
   - seaborn
-  - streamlit
+  - ipykernel
+prefix: /home/jakeli/miniconda3/envs/ctp
